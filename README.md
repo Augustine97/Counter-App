@@ -8,4 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## More info
 
-This app is deployed. For more information please feel free to check [Counter App]().
+This app is deployed. For more information please feel free to check [Counter App](https://cocky-turing-f0987c.netlify.app/).
